@@ -30,7 +30,8 @@ public class HookTrack implements IXposedHookLoadPackage {
             "com.cjs.drv",
             "com.bw30.zsch",
             "com.bw30.zsch.magic",
-            "com.cjs.hegui30.demo"
+            "com.cjs.hegui30.demo",
+            "com.mob"
     };
 
     @Override
